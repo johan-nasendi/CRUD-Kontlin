@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185576466212",
+    "project_id": "loginkontlin",
+    "storage_bucket": "loginkontlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185576466212:android:1513c1c19c76fd2c07f5b1",
+        "android_client_info": {
+          "package_name": "com.example.loginkontlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185576466212-2lkcthfmsa53lapgptfohtce9d8oa72p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeD-TItvwZFWdIk86NMni1iLVEEHg37uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185576466212-2lkcthfmsa53lapgptfohtce9d8oa72p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
